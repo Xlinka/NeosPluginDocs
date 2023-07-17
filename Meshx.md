@@ -1,6 +1,6 @@
-# BaseX Documentation
+# Meshx Documentation
 
-BaseX is a class that represents a mesh and provides methods for manipulating its vertices, triangles, and points.
+Meshx is a class that represents a mesh and provides methods for manipulating its vertices, triangles, and points.
 
 ## Class: BaseX
 
